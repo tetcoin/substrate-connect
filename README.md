@@ -1,4 +1,4 @@
-# Substrate Connect
+# Tetcore Connect
 
 Run Wasm Light Clients of any Substrate based chain directly in your browser.
 
