@@ -1,6 +1,6 @@
 # Tetcore Connect
 
-Run Wasm Light Clients of any Substrate based chain directly in your browser.
+Run Wasm Light Clients of any Tetcore based chain directly in your browser.
 
 **Substrate Connect** is not the name of a single product, it rather describes a vision or notion that will allow developers to quickly generate and run Wasm Light Clients of their Substrate based chains - as easy as installing a node module.
 
